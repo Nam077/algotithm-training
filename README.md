@@ -1,81 +1,79 @@
 <div align="center">
 
-# Algotithm Training
+# Algotithm Training 
+
+|#| Problem|Score| Tags | Nguyễn Văn Nam |
+| :-----:|:-----:| :-----: |:-----: | :-----:
+|1| [A pow B](https://github.com/nam077/algotithm-training/tree/main/a_pow_b)|200|number| ✅|
+|2| [Prime Array](https://github.com/nam077/algotithm-training/tree/main/prime_array)|100|sieve| ✅|
+|3| [Smallest Number](https://github.com/nam077/algotithm-training/tree/main/smallest_number)|250|icpc| ✅|
+|4| [SumAB](https://github.com/nam077/algotithm-training/tree/main/sum_a_b)|100|mod| ✅| 
+|5| [SumN](https://github.com/nam077/algotithm-training/tree/main/sum_n)|100|mod| ✅| 
+|6| [The Number That Appears The Most](https://github.com/nam077/algotithm-training/tree/main/the_number_that_appears_the_most)|150|tick| ✅| 
+|7| [Divisors](https://github.com/nam077/algotithm-training/tree/main/divisors)|100| number| ✅|
+|8| [Money Change](https://github.com/nam077/algotithm-training/tree/main/money_change)|100|greed| ✅| 
+|9| [Sales Increase](https://github.com/nam077/algotithm-training/tree/main/sales_increase)|100|qhd| ✅| 
+|10| [Lcm Gcd](https://github.com/nam077/algotithm-training/tree/main/lcm_gcd)|120|number| ✅| 
+|11| [Super Prime Number](https://github.com/nam077/algotithm-training/tree/main/super_prime_number)|100|number| ✅| 
+|12| [Super Prime Number 2](https://github.com/nam077/algotithm-training/tree/main/super_prime_number_2)|200|number| ❌|
+|13| [Decreasing array](https://github.com/nam077/algotithm-training/tree/main/decreasing_array)|120|qhd| ✅|
+|14| [Positive Number Array](https://github.com/nam077/algotithm-training/tree/main/positive_number_array)|120|qhd| ✅| 
+|15| [Alike Array](https://github.com/nam077/algotithm-training/tree/main/alike_array)|120|qhd| ✅| 
+|16| [Max Sum Array](https://github.com/nam077/algotithm-training/tree/main/max_sum_array)|150|qhd| ✅| 
+|17| [Ascending Array 2](https://github.com/nam077/algotithm-training/tree/main/ascending_array_2)|200|qhd| ✅| 
+18| [Missing Element](https://github.com/nam077/algotithm-training/tree/main/missing_element)|100|array| ✅|
+19| [Missing Element 2](https://github.com/nam077/algotithm-training/tree/main/missing_element_2)|120| array|✅|
+20| [Mountain Array](https://github.com/nam077/algotithm-training/tree/main/mountain_array)|150|qhd| ✅| 
+21| [Miners And Gold](https://github.com/nam077/algotithm-training/tree/main/miners_and_gold)|150|qhd| ✅| 
+22| [Symmetric Chain](https://github.com/nam077/algotithm-training/tree/main/symmetric_chain)|100|string| ✅|
+23| [Symmetric Chain 2](https://github.com/nam077/algotithm-training/tree/main/symmetric_chain_2)|150|string| ✅|
+24| [Even Or Odd Sequence](https://github.com/nam077/algotithm-training/tree/main/even_or_odd_sequence)|120|qhd| ✅|
+25| [Rabbit And Carrot](https://github.com/nam077/algotithm-training/tree/main/rabbit_and_carrot)|150| qhd| ✅| 
+26| [Rabbit And Carrot 2](https://github.com/nam077/algotithm-training/tree/main/rabbit_and_carrot_2)|140|qhd| ✅| 
+27| [Alike Array 2](https://github.com/nam077/algotithm-training/tree/main/alike_array_2)|150|qhd| ✅| 
+28| [Ascending Array 3](https://github.com/nam077/algotithm-training/tree/main/ascending_array_3)|180|qhd| ✅| 
+29| [Number Prime](https://github.com/nam077/algotithm-training/tree/main/number_prime)|120|sieve, qhd| ✅| 
+30| [Min Alike Number](https://github.com/nam077/algotithm-training/tree/main/min_alike_number)|100|number| ✅|
+31| [Max Alike Number](https://github.com/nam077/algotithm-training/tree/main/max_alike_number)|100|number|✅|
+32| [Ascending Number](https://github.com/nam077/algotithm-training/tree/main/ascending_number)|100|number|✅|
+33| [Min Ascending Number](https://github.com/nam077/algotithm-training/tree/main/min_ascending_number)|120|number| ❌| 
+34| [Max Ascending Number](https://github.com/nam077/algotithm-training/tree/main/max_ascending_number)|120|number| ❌| 
+35| [Number Square](https://github.com/nam077/algotithm-training/tree/main/number_square)|200|mod| ❌|
+36| [Snail And Tree](https://github.com/nam077/algotithm-training/tree/main/snail_and_tree)|100|number| ✅|
+37| [Last Zero Of N Factorial](https://github.com/nam077/algotithm-training/tree/main/last_zero_of_n_factorial)|250|number|❌|
+38| [Sum Array Equals S](https://github.com/nam077/algotithm-training/tree/main/sum_array_equals_s)|200|array| ❌|
+39| [Rectangle One](https://github.com/nam077/algotithm-training/tree/main/rectangle_one)|200|matrix|❌|
+40| [Virus](https://github.com/nam077/algotithm-training/tree/main/virus)|120|number|✅|
+41| [Perfect Square](https://github.com/nam077/algotithm-training/tree/main/perfect_square)|100|number|✅|
+42| [Perfect Square 2](https://github.com/nam077/algotithm-training/tree/main/perfect_square_2)|120|number| ✅|
+43| [Perfect Square 3](https://github.com/nam077/algotithm-training/tree/main/perfect_square_3)|150|number|❌|
+44| [Divisors Array](https://github.com/nam077/algotithm-training/tree/main/divisors_array)|100|array| ✅|
+45| [Divisors Array 2](https://github.com/nam077/algotithm-training/tree/main/divisors_array_2)|250|array| ❌|
+46| [Seesaw](https://github.com/nam077/algotithm-training/tree/main/seesaw)|100|number|✅| 
+47| [Number Lucky](https://github.com/nam077/algotithm-training/tree/main/number_lucky)|100|number| ✅|
+48| [Number Lucky 2](https://github.com/nam077/algotithm-training/tree/main/number_lucky_2)|100|number|✅|
+49| [Shoes Game](https://github.com/nam077/algotithm-training/tree/main/shoes_game)|150|icpc|✅| 
+50| [Smallest Number Of Bags](https://github.com/nam077/algotithm-training/tree/main/smallest_number_of_bags)|100|array|✅|
+51| [Sides Of Triangle](https://github.com/nam077/algotithm-training/tree/main/sides_of_triangle)|100|number|✅|
+52| [Sides Of Triangle 2](https://github.com/nam077/algotithm-training/tree/main/sides_of_triangle_2)|200|number|❌|
+53| [Sides Of Triangle 3](https://github.com/nam077/algotithm-training/tree/main/sides_of_triangle_3)|300|number|❌|
+54| [Sleep Of Gon](https://github.com/nam077/algotithm-training/tree/main/sleep_of_gon)|100|time|✅|
+55| [Password Lock](https://github.com/nam077/algotithm-training/tree/main/password_lock)|100|string|✅|
+56| [Special_numbert](https://github.com/nam077/algotithm-training/tree/main/special_number)|100|contest1|✅|
+57| [Is Power Of Four](https://github.com/nam077/algotithm-training/tree/main/is_power_of_four)|100|contest1|✅|
+58| [Position Robot](https://github.com/nam077/algotithm-training/tree/main/position_robot)|100|contest1|✅|
+59| [Divisible By K](https://github.com/nam077/algotithm-training/tree/main/divisible_by_k)|120|contest1|✅|
+60| [Max Number](https://github.com/nam077/algotithm-training/tree/main/max_number)|250|contest1|❌|
+61| [Min Max](https://github.com/nam077/algotithm-training/tree/main/min_max)|100|contest2|✅|
+62| [Count VKU](https://github.com/nam077/algotithm-training/tree/main/count_vku)|100|contest2|✅|
+63| [Arithmetic Progression](https://github.com/nam077/algotithm-training/tree/main/arithmetic_progression)|150|contest2|✅|
+64| [Chung Cake](https://github.com/nam077/algotithm-training/tree/main/chung_cake)|150|contest2|✅|
+65| [Snaker Game](https://github.com/nam077/algotithm-training/tree/main/snaker_game)|200|contest2|❌|
+66| [Give Extra Pen](https://github.com/nam077/algotithm-training/tree/main/give_extra_pen)|100|contest3|❌|
+67| [Arithmetic Progression 2](https://github.com/nam077/algotithm-training/tree/main/arithmetic_progression_2)|150|contest3|❌|
+68| [Chung Cake_2 ](https://github.com/nam077/algotithm-training/tree/main/chung_cake_2)|150|contest3|❌|
+69| [Move K Elements](https://github.com/nam077/algotithm-training/tree/main/move_k_elements)|150|contest3|❌|
+70| [Crowded Store](https://github.com/nam077/algotithm-training/tree/main/crowded_store)|200|contest3|❌|
+
+
 </div>
-
-## 1. Cấu trúc mỗi đề thi
-
-Mỗi folder sẽ là mỗi bài tập, trong đó:
-  
-- problem.txt là đề bài.
-- testcase
-  - tc01
-    - input.txt: đầu vào của test 1
-    - output.txt: đầu ra của test 2
-  - tc02
-    - input.txt
-    - output.txt
-  - ...
-  - .testcase: File test đùng cho estension CPH trong VSCode. (1)
-- suggest.txt: Gợi ý (thường sẽ không có)
-
-## 2. Extension Competitive Programming Helper trên Visual studio code
-
-### 2.1 Giới thiếu Competitive Programming Helper
-
-Bạn có thể thử từng input để biết được bài làm của mình có vượt quá được các test (do mình tự ra) đối với problem đó hay không. Nhưng vấn đề này có thể sẽ bất khả thi vì có một số test có input cũng như output rất dài, và việc để test từng test case rất là mất thời gian. Để khắc phục vấn đề này mình sẽ hướng dẫn các bạn một cách có thể chạy 1 lần được tất cả các test case của đề.
-
-### 2.2 Cài đặt Competitive Programming Helper
-Đầu tiên bạn cần chạy được ngôn ngữ mà bạn sử dụng (C/C++, Python, Java, RS,...) ở trên Visual studio code (VSC)
-Sau khi xong phần này các bạn cài đặt extension Competitive Programming Helper (CPH) vào VSC.
-
-<div align = "center">
-  <img align="center" src= "https://raw.githubusercontent.com/zukahai/HaiZuka/master/Images/cph.png" />
-</div>
-
-### 2.3 Sử dụng Competitive Programming Helper
-Sau khi giải quyết xong vấn đề của đề bài và bạn muốn thử xem bài làm của mình có đúng hay không. Bạn cần test trên bộ testcase của đề.
-Cách bước để test như sau.
-
-#### Bước 1:
-Copy nội dung của file ./testcase/.testcase ở (1)
-
-#### Bước 2:
-Mở file bài làm của bạn sau đó click và icon CPH:
-
-<div align = "center">
-  <img align="center" src= "https://raw.githubusercontent.com/zukahai/HaiZuka/master/Images/chp3.png" />
-</div>
-<br>
- Tiếp theo sẽ mở ra giao diện này. Chọn Create problem
- <div align = "center">
-  <img align="center" src= "https://raw.githubusercontent.com/zukahai/HaiZuka/master/Images/chp4.png" />
-</div>
-<br>
-Trở về giao diện chính:
-<div align = "center">
-  <img align="center" src= "https://raw.githubusercontent.com/zukahai/HaiZuka/master/Images/chp5.png" />
-</div>
-
-#### Bước 3:
-Lúc này hãy thống sẽ tự tạo cho bạn một file prob ở .chp/xxxxxxxxxx.prob ngang hàng với file bài làm của bạn.
- <div align = "center">
-  <img align="center" src= "https://raw.githubusercontent.com/zukahai/HaiZuka/master/Images/chp6.png" />
-</div>
-Mở file đó lên và tìm đoạn "Test":....,
-<div align = "center">
-  <img align="center" src= "https://raw.githubusercontent.com/zukahai/HaiZuka/master/Images/chp7.png" />
-</div>
-Bôi đen và dán nội dung bạn đã copy ở bước 1 vào. Sau đó lưu file lại.
-
-#### Bước 4
-Trở lại file bài làm của bạn, lúc này chờ một lúc để cửa số CPH hiện thị đầy đủ các testcase của đề.
-
-<div align = "center">
-  <img align="center" src= "https://raw.githubusercontent.com/zukahai/HaiZuka/master/Images/chp2.png" />
-</div>
-
-Bạn có thể chọn chạy thử từng test hoặc chạy hết tất cả các test (Run All)
-
-Như thế là các bạn đã biết các chạy thử các testcase của từng bài. Nếu gặp phải khó khăn và góp ý có thể liên hệ mình.<br>
-Chúc các bạn thành công.
