@@ -1,7 +1,7 @@
 <div align="center">
 
 # Algotithm Training 
-
+#### Tutorial by [HaiZuka](https://github.com/zukahai/algotithm-training)
 |#| Problem|Score| Tags | Nguyễn Văn Nam |
 | :-----:|:-----:| :-----: |:-----: | :-----:
 |1| [A pow B](https://github.com/nam077/algotithm-training/tree/main/a_pow_b)|200|number| ✅|
